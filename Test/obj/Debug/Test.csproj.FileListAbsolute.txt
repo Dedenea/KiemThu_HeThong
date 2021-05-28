@@ -1,0 +1,17 @@
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\data.csv
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Test.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Test.pdb
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\ClassLibraryHoDuongVu.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\ClassLibraryHoDuongVu.pdb
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\obj\Debug\Test.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\Test\obj\Debug\Test.pdb

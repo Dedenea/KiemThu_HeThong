@@ -1,0 +1,6 @@
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\obj\Debug\ClassLibraryHoDuongVu.csprojAssemblyReference.cache
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\obj\Debug\ClassLibraryHoDuongVu.csproj.CoreCompileInputs.cache
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\bin\Debug\ClassLibraryHoDuongVu.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\bin\Debug\ClassLibraryHoDuongVu.pdb
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\obj\Debug\ClassLibraryHoDuongVu.dll
+C:\Users\FPT - ADMIN\Desktop\STD\DBCLKT\KT\HoDuongVu_18050901\ClassLibraryHoDuongVu\obj\Debug\ClassLibraryHoDuongVu.pdb
